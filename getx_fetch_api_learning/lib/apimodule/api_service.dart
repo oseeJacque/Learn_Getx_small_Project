@@ -1,6 +1,5 @@
+import 'package:getx_fetch_api_learning/models/product_module.dart';
 import 'package:http/http.dart' as http;
-
-import '../productmodule/models/product_module.dart';
 
 
 class ApiService{

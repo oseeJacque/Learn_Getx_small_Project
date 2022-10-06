@@ -2,7 +2,7 @@
 
 import 'package:get/get.dart';
 import 'package:getx_fetch_api_learning/apimodule/api_service.dart';
-import 'package:getx_fetch_api_learning/productmodule/models/product_module.dart';
+import 'package:getx_fetch_api_learning/models/product_module.dart';
 
 class ProductController extends GetxController{
   var isLoading=true.obs;
